@@ -32,6 +32,7 @@
     padding: 12px;
     width: 100px;
     font-weight: 600px;
+    margin-bottom: 30px;
 }
 .img{
     height: 400px;
@@ -142,10 +143,6 @@
     text-align: center;
     margin-top: 15px;
 }
-.sec5-bonus{
-   
-    
-}
 .sec5-div-bonus{
     display: flex;
     justify-content: space-around;
@@ -157,4 +154,34 @@
 }
 .h4-bonus{
     margin: 10px 0px;
+}
+.sec-6{
+    text-align: center;
+    font-size: 30px;
+    margin-bottom: 30px;
+}
+.h2-sec6{
+    margin-bottom: 10px;
+}
+.sec-7-bonus{
+    display: flex;
+    margin: 0px 150px;
+    gap: 10px;
+}
+.sec6-img{
+    height: 220px;
+    width: 255px;
+    margin-bottom: 10px;
+    border-radius: 5px;
+}
+.h4-sec7{
+    text-align: center;
+    font-size: 25px;
+    background-color: #f8e9ec;
+    border-radius: 5px;
+    box-shadow: 4px 4px 10px #a5a2a2;
+    
+}
+.title-bonus{
+    margin-bottom: 15px;
 }
