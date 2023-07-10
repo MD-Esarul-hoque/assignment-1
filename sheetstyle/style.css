@@ -1,0 +1,9 @@
+*{
+    margin: 0;
+}
+.header{
+    height: 500px;
+}
+.sec1{
+    display: flex;
+}
