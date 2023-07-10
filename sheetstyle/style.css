@@ -73,6 +73,7 @@
     align-items: center;
     justify-content: center;
     gap: 10px;
+    
 }
 .sec4-img{
     height: 300px;
@@ -80,14 +81,39 @@
 }
 .sec5{
     height: 250px;
-    width: 1050px;
+    width: 1040px;
     display: flex;
     justify-content: center;
     text-align: center;
     align-items: center;
-    margin: 50px 150px;
+    margin: 80px 150px;
+   background-image: url(/flower_asset/rectangle\ 9.png);
+   background-repeat: no-repeat;
+   background-size: cover;
+   background-position: center;
+   
    
 }
-.sec5-div{
+.input-sec5{
+    height: 40px;
+    width: 400px;
+    border: none;
+    margin-top: 30px;
+}
+.footer{
+    height: 170px;
+    text-align: center;
+    padding-top: 60px;
+    background-color: black;
     
+}
+.footer-div{
+    color: white;   
+}
+.footer-paragraph{
+    margin: 20px 0px;
+    font-size: 13px;
+}
+.footer-finish{
+    font-size: 10px;
 }
